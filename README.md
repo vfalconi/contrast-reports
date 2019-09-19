@@ -20,7 +20,7 @@ npm install
 
 2. Run `npm start` in your terminal (or run `npm start loud` if you want to also see the results in your terminal)
 
-3. Open `contrast-report.csv` in your CSV reader of choice.
+3. Open `contrast-report.csv` in your CSV reader of choice, or `report.html` in a browser.
 
 ## Output
 
